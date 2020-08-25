@@ -1,2 +1,2 @@
-# portofolio
-portofolio with react hooks
+# portfolio
+portfolio with react hooks
