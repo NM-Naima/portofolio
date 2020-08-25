@@ -6,11 +6,8 @@ import Home from './pages';
 import About from './pages/about';
 import Contact from './pages/contact';
 
-
-
 function Routes() {
-  return (
-   
+  return ( 
     <div className="App">
      <Router>
        <Header />
@@ -27,7 +24,6 @@ function Routes() {
         </Switch>
         <Footer />
       </Router>
-
     </div>
   );
 }
